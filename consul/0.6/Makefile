@@ -1,2 +1,2 @@
 build:
-	docker build -t takuanosho/consul:0.6
+	docker build -t takuanosho/consul:0.6 .
